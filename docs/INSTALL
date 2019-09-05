@@ -71,10 +71,7 @@
 
     ¥H¤U¬O½sÄ¶«e«ØÄ³¥ý¦w¸Ëªº®M¥ó²M³æ¡A
     ¥i¥H¥Î apt-get / yum µ¥³nÅéºÞ²z­û«ü¥OÀË¬d¦Û¤v¦³¨S¦³¦w¸Ë¨ì¡G
-
-    clang
-    ccache
-    libevent-dev
+    bmake, ccache, clang, git, libevent-dev, pkg-config, python
 
  11.(¦b /home/bbs/pttbbs ¤U)  °õ¦æ make BBSHOME=/home/bbs all install
 
